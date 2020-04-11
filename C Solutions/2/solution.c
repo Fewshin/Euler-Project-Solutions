@@ -35,5 +35,6 @@ int main () {
     total += *(evenFib + i);
   }
   printf("Total: %d\n", total);
+  free(evenFib);
   return 0;
 }
