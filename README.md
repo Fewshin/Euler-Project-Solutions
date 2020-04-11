@@ -1,4 +1,4 @@
-# Project-Euler Code
+# Project Euler Code
 My code for Euler Project problems
 My code is currently in C, C++, and/or JavaScript  
 Some problems may have code in one language and not another  
