@@ -2,3 +2,4 @@
 My solutions for Euler Project problems
 My solutions are currently in C, C++, and/or JavaScript  
 Some problems may have solutions in one language and not another  
+This repository will not and does not include solutions for problems past problem 100  
